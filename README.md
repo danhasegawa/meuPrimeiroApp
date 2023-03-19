@@ -16,7 +16,4 @@ Screen in English
 ## ✔️ Technologies
 
 - ``Kotlin ``
-- ``IntelliJ IDE``
-- ``Compose Multiplataform``
-- ``Retrofit``
-- ``okHttp``
+- ``Android Studio``
