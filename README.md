@@ -8,10 +8,12 @@ In this project I created my first android app in a very simple way for the cour
 I modified the string.xml file, so that it can be internationalized in Portuguese and English.
 
 Screen in Portuguese
-![Screenshot_20230319-151811](https://user-images.githubusercontent.com/105471213/226199657-dd13320f-bd86-481a-9079-a0003346f99d.png)
+
+![pt](https://user-images.githubusercontent.com/105471213/226203468-44263e2e-00d0-4434-8996-abae9f714cf0.png)
 
 Screen in English
-![Screenshot_20230319-151724](https://user-images.githubusercontent.com/105471213/226199692-341b9e06-726a-49ef-8ace-96113336d165.png)
+
+![en](https://user-images.githubusercontent.com/105471213/226203475-e5502b5a-2351-45dd-9133-4beeed2741f0.png)
 
 ## ✔️ Technologies
 
